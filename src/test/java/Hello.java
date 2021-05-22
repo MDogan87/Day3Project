@@ -5,6 +5,6 @@ public class Hello {
         // we enhancing hello
         System.out.println("new thing");
         //work 1
-        //
+        //work 2
     }
 }
